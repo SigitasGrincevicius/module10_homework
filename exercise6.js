@@ -14,4 +14,4 @@ for (let i = 1; i < arr.length; i++) {
 if (allElementsEqual)
    console.log("All elements in this array are equal");
 else 
-	console.log("Elements in array are not equal")
+   console.log("Elements in array are not equal")
